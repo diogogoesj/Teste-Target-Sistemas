@@ -1,0 +1,14 @@
+C:\Programming\TesteTarget02\TesteTarget02\bin\Debug\net8.0\TesteTarget02.exe
+C:\Programming\TesteTarget02\TesteTarget02\bin\Debug\net8.0\TesteTarget02.deps.json
+C:\Programming\TesteTarget02\TesteTarget02\bin\Debug\net8.0\TesteTarget02.runtimeconfig.json
+C:\Programming\TesteTarget02\TesteTarget02\bin\Debug\net8.0\TesteTarget02.dll
+C:\Programming\TesteTarget02\TesteTarget02\bin\Debug\net8.0\TesteTarget02.pdb
+C:\Programming\TesteTarget02\TesteTarget02\obj\Debug\net8.0\TesteTarget02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\TesteTarget02\TesteTarget02\obj\Debug\net8.0\TesteTarget02.AssemblyInfoInputs.cache
+C:\Programming\TesteTarget02\TesteTarget02\obj\Debug\net8.0\TesteTarget02.AssemblyInfo.cs
+C:\Programming\TesteTarget02\TesteTarget02\obj\Debug\net8.0\TesteTarget02.csproj.CoreCompileInputs.cache
+C:\Programming\TesteTarget02\TesteTarget02\obj\Debug\net8.0\TesteTarget02.dll
+C:\Programming\TesteTarget02\TesteTarget02\obj\Debug\net8.0\refint\TesteTarget02.dll
+C:\Programming\TesteTarget02\TesteTarget02\obj\Debug\net8.0\TesteTarget02.pdb
+C:\Programming\TesteTarget02\TesteTarget02\obj\Debug\net8.0\TesteTarget02.genruntimeconfig.cache
+C:\Programming\TesteTarget02\TesteTarget02\obj\Debug\net8.0\ref\TesteTarget02.dll

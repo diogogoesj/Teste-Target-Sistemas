@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\bin\Debug\net8.0\TesteTarget05.exe
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\bin\Debug\net8.0\TesteTarget05.deps.json
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\bin\Debug\net8.0\TesteTarget05.runtimeconfig.json
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\bin\Debug\net8.0\TesteTarget05.dll
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\bin\Debug\net8.0\TesteTarget05.pdb
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\obj\Debug\net8.0\TesteTarget05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\obj\Debug\net8.0\TesteTarget05.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\obj\Debug\net8.0\TesteTarget05.AssemblyInfo.cs
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\obj\Debug\net8.0\TesteTarget05.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\obj\Debug\net8.0\TesteTarget05.dll
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\obj\Debug\net8.0\refint\TesteTarget05.dll
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\obj\Debug\net8.0\TesteTarget05.pdb
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\obj\Debug\net8.0\TesteTarget05.genruntimeconfig.cache
+C:\Users\user\Desktop\TesteTecnico\TesteTarget05\TesteTarget05\obj\Debug\net8.0\ref\TesteTarget05.dll
